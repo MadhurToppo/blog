@@ -1,0 +1,4 @@
+[submodule "madhurtoppoblog/public"]
+	path = madhurtoppoblog/public
+	url = git@github.com:MadhurToppo/madhurtoppo.github.io.git
+	branch = main

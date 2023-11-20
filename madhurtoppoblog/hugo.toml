@@ -1,0 +1,4 @@
+baseURL = 'https://madhurtoppo.github.io'
+languageCode = 'en-us'
+title = 'Madhur Toppo blog'
+theme = 'PaperMod'
